@@ -44,7 +44,7 @@ model_log is better at recognizing actual fake accounts as such (recall), while 
 
 LogisticRegression uses a threshold of 0.5 (50%) for determining the predicted categories. If we lower this threshold, there are more and more positive predictions and thus the recall increases. At the same time, however, the precision also decreases, because more and more of the predicted reference category cases are not fake at all.
 
-*The question here is which classification threshold suits our specific problem well?* We can investigate this issue with the help of ROC (Receiver Operating Characteristic) curve. ROC curves are a nice way to see how any predictive classifier like logistic regression model can distinguish between the true positives and negatives.
+**The question here is which classification threshold suits our specific problem well?** We can investigate this issue with the help of ROC (Receiver Operating Characteristic) curve. ROC curves are a nice way to see how any predictive classifier like logistic regression model can distinguish between the true positives and negatives.
 
 <img width="720" height="720" alt="image" src="https://github.com/user-attachments/assets/73671067-621a-4c96-bb6b-f2a6c62db3d9" />
 
