@@ -1,5 +1,7 @@
-Scenario¶
+#Scenario
 A popular social media platform for sharing photos and videos has received complaints about fake user accounts. These fake accounts are said to have left spam comments on genuine user posts. Management has asked us to create a machine-learning model that will help the platform distinguish real versions from fake accounts. The company would then use the model to identify fake accounts so they can be deleted from the platform.
+
+<img width="1140" height="500" alt="image" src="https://github.com/user-attachments/assets/6c046117-e3ad-4207-8f78-c6728db00272" />
 
 Image taken from: https://www.endnowfoundation.org/wp-content/uploads/elementor/thumbs/Detect-Fake-Profiles-on-Social-Media-p6yfct3ismgslao8tyklprwyrfd5tttfiwrd6xcjuw.jpg
 
